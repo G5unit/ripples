@@ -1,0 +1,10 @@
+<map id="conn_release" name="conn_release">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,113,56"/>
+<area shape="rect" id="Node000002" href="$group__connection.html#gadac53f263515607663d4aa978de5db7f" title=" " alt="" coords="163,5,298,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,33,149,27,150,33,114,38"/>
+<area shape="rect" id="Node000004" href="$group__connection.html#gabee18b63baa6df2f7f58929574fc53d2" title=" " alt="" coords="161,55,300,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="114,48,148,53,147,58,113,54"/>
+<area shape="rect" id="Node000003" href="$group__query.html#gaf93a1e779559c3be79eea93c16a04f7b" title=" " alt="" coords="348,31,449,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="299,26,335,31,334,36,298,31"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="300,55,334,50,335,55,301,60"/>
+</map>

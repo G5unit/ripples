@@ -1,0 +1,18 @@
+<map id="query_reset" name="query_reset">
+<area shape="rect" id="Node000001" title=" " alt="" coords="729,55,828,80"/>
+<area shape="rect" id="Node000002" href="$group__connection.html#ga7da801c674cefdee4cdfe1c601aa9077" title=" " alt="" coords="503,5,681,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="716,54,641,33,642,28,718,49"/>
+<area shape="rect" id="Node000007" href="$group__query__object__ut.html#ga7944489e731194cda06c4ad068c1851d" title=" " alt="" coords="521,55,663,80"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="715,70,664,70,664,65,715,65"/>
+<area shape="rect" id="Node000008" href="$vectorloop_8c.html#a3c705f68b8e44b7cb657d6772747d580" title=" " alt="" coords="335,80,453,105"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="726,86,682,95,621,101,560,103,453,100,453,94,560,97,621,95,681,90,725,81"/>
+<area shape="rect" id="Node000003" href="$vectorloop_8c.html#ab3cec5e20125d98c83541557840c0dc9" title=" " alt="" coords="333,19,455,44"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="489,28,455,30,455,25,488,22"/>
+<area shape="rect" id="Node000004" href="$group__vectorloop.html#ga8085b92988a2a04a741421ec75c785cd" title=" " alt="" coords="223,56,285,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="334,50,286,63,285,58,332,45"/>
+<area shape="rect" id="Node000005" href="$group__ripples.html#ga3448cc4395fbd9b27bb229a87337067d" title=" " alt="" coords="108,56,175,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="209,71,175,71,175,66,209,66"/>
+<area shape="rect" id="Node000006" href="$main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,56,60,81"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="94,71,60,71,60,66,94,66"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="321,83,285,77,286,71,322,78"/>
+</map>

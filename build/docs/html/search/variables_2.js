@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['cd_0',['cd',['../structrip__ns__header__s.html#a8c19cdf14d1b962462d7aa5bf840fb54',1,'rip_ns_header_s']]],
+  ['cfg_1',['cfg',['../structapp__log__loop__args__s.html#a77e9ab55ab3d38a29946a6cf59acdfbf',1,'app_log_loop_args_s::cfg'],['../structquery__log__loop__args__s.html#a508595cceedad1b6a613032beea59dce',1,'query_log_loop_args_s::cfg'],['../structresource__loop__args__s.html#aa90475a1f81bbb9f51355bcfc34b2339',1,'resource_loop_args_s::cfg'],['../structvectorloop__s.html#ad78fc1bee289bbe4bc33e0b1a53e55fd',1,'vectorloop_s::cfg']]],
+  ['channel_5fop_2',['channel_op',['../structresource__s.html#ad1e19e90d066c6619e4bcd9a5f6b5962',1,'resource_s']]],
+  ['check_5fload_5ffn_3',['check_load_fn',['../structresource__s.html#aa9bd074f2897ef9ef9124374fc34580a',1,'resource_s']]],
+  ['cid_4',['cid',['../structconn__s.html#a8674e5776c111b02a4ce72af292962cc',1,'conn_s']]],
+  ['class_5',['class',['../structrr__record__s.html#aea8dac3ca71c7108e998db91e62f9700',1,'rr_record_s']]],
+  ['client_5fip_6',['client_ip',['../structconn__tcp__s.html#a7fc0b3f9a31ab616d63dd818d99b2728',1,'conn_tcp_s::client_ip'],['../structquery__s.html#a131d3ffd313457b3ec850824696574a4',1,'query_s::client_ip']]],
+  ['client_5fsubnet_7',['client_subnet',['../structedns__s.html#a2d122abdddd2dce120ef2c35461b637c',1,'edns_s']]],
+  ['closed_5fno_5fquery_8',['closed_no_query',['../structmetrics__s.html#a56ba0ff9e1cb97d477e81e70b69416fe',1,'metrics_s']]],
+  ['closed_5fpartial_5fquery_9',['closed_partial_query',['../structmetrics__s.html#af97fd21c387fd3680c7f25891d399d4f',1,'metrics_s']]],
+  ['conn_10',['conn',['../structconn__s.html#a7e439e75e2f51e2ff7ed4d31fbb1f18d',1,'conn_s']]],
+  ['conn_5fid_5funavailable_11',['conn_id_unavailable',['../structmetrics__s.html#a103c200fe7bc76ec6b88cf01eb193fad',1,'metrics_s']]],
+  ['conn_5ftcp_5faccept_5fconns_5fqueue_12',['conn_tcp_accept_conns_queue',['../structvectorloop__s.html#a1bf0df034753331117396f29952192a9',1,'vectorloop_s']]],
+  ['conn_5ftcp_5fid_5fbase_13',['conn_tcp_id_base',['../structvectorloop__s.html#a7c170d95625ae30f930ebaa364784874',1,'vectorloop_s']]],
+  ['conn_5ftcp_5flru_5fcache_14',['conn_tcp_lru_cache',['../structvectorloop__s.html#a48e4aec887d74a8925d11797e43949db',1,'vectorloop_s']]],
+  ['conn_5ftcp_5fread_5fqueue_15',['conn_tcp_read_queue',['../structvectorloop__s.html#aacef47620f4eb6adf7923d70187449c6',1,'vectorloop_s']]],
+  ['conn_5ftcp_5frelease_5fqueue_16',['conn_tcp_release_queue',['../structvectorloop__s.html#ac2e37dfb445eeaf134a0f8dfeef56fbe',1,'vectorloop_s']]],
+  ['conn_5ftcp_5fwrite_5fqueue_17',['conn_tcp_write_queue',['../structvectorloop__s.html#a1fa27bdff585d0af2ebdef0191a58e08',1,'vectorloop_s']]],
+  ['conn_5fudp_5fread_5fqueue_18',['conn_udp_read_queue',['../structvectorloop__s.html#a1cd96b2122fed1a70c41bef6893909e7',1,'vectorloop_s']]],
+  ['conn_5fudp_5fwrite_5fqueue_19',['conn_udp_write_queue',['../structvectorloop__s.html#a7f6f02c5e197ba9aa57944b026f1a29c',1,'vectorloop_s']]],
+  ['connections_20',['connections',['../structmetrics__s.html#a5a1eb3ba5430d60ed07b5a752a2a3501',1,'metrics_s']]],
+  ['conns_5ftcp_5factive_21',['conns_tcp_active',['../structvectorloop__s.html#a9d194ddd322ffbcf4d8e326cfcb7531c',1,'vectorloop_s']]],
+  ['create_5ftime_22',['create_time',['../structresource__s.html#aaf28f9936bcd8a1e33afa6922f4904b5',1,'resource_s']]],
+  ['cs_23',['cs',['../structtest__params__query__parse__edns__ext__cs.html#aad4d5712d22a145c47777f441798fbd7',1,'test_params_query_parse_edns_ext_cs']]],
+  ['current_5fresource_24',['current_resource',['../structresource__s.html#a7ff2b6a22a492b6aeee56a82886fd596',1,'resource_s']]]
+];

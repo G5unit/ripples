@@ -1,0 +1,17 @@
+<map id="utl_diff_timespec_as_double" name="utl_diff_timespec_as_double">
+<area shape="rect" id="Node000001" title=" " alt="" coords="611,49,767,89"/>
+<area shape="rect" id="Node000002" href="$group__applog.html#ga51f8f596c22b935a4aabec7ba846d4f4" title=" " alt="" coords="223,5,331,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="597,52,562,46,438,32,330,24,331,18,438,26,563,41,597,46"/>
+<area shape="rect" id="Node000005" href="$group__resources.html#gac9373ffbe8386992398b2a299adb27e3" title=" " alt="" coords="414,56,527,81"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="597,71,528,71,528,66,597,66"/>
+<area shape="rect" id="Node000006" href="$vectorloop_8c.html#adcde3b270c8950072ec92890fc0cb4a9" title=" " alt="" coords="379,105,563,131"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="597,92,528,108,527,103,596,87"/>
+<area shape="rect" id="Node000003" href="$group__ripples.html#ga3448cc4395fbd9b27bb229a87337067d" title=" " alt="" coords="108,56,175,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="230,38,176,59,174,54,228,33"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#a0ddf1224851353fc92bfbff6f499fa97" title=" " alt="" coords="5,56,60,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="94,71,60,71,60,66,94,66"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="401,71,175,71,175,66,401,66"/>
+<area shape="rect" id="Node000007" href="$group__vectorloop.html#ga8085b92988a2a04a741421ec75c785cd" title=" " alt="" coords="245,107,308,132"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="365,121,308,122,308,116,365,116"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="231,105,174,83,176,79,233,100"/>
+</map>

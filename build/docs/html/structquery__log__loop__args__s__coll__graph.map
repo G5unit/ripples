@@ -1,0 +1,13 @@
+<map id="query_log_loop_args_s" name="query_log_loop_args_s">
+<area shape="rect" id="Node000001" title=" " alt="" coords="147,196,317,221"/>
+<area shape="rect" id="Node000002" href="$structconfig__s.html" title=" " alt="" coords="5,108,80,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="70,139,120,170,186,193,184,198,118,174,67,144"/>
+<area shape="rect" id="Node000003" href="$structchannel__bss__s.html" title=" " alt="" coords="105,108,221,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="153,147,151,159,154,171,167,184,184,194,182,198,164,188,150,173,146,160,148,146"/>
+<area shape="rect" id="Node000004" href="$structchannel__bss__queue__s.html" title=" " alt="" coords="81,5,244,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="165,45,165,108,160,108,160,45"/>
+<area shape="rect" id="Node000005" href="$structchannel__log__s.html" title=" " alt="" coords="257,108,372,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="306,147,287,174,256,198,252,194,283,170,301,144"/>
+<area shape="rect" id="Node000006" href="$structmetrics__s.html" title=" " alt="" coords="416,108,501,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="446,146,433,161,416,174,368,194,318,205,317,200,366,189,413,170,429,157,442,143"/>
+</map>

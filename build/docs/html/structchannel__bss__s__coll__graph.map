@@ -1,0 +1,5 @@
+<map id="channel_bss_s" name="channel_bss_s">
+<area shape="rect" id="Node000001" title=" " alt="" coords="29,108,145,133"/>
+<area shape="rect" id="Node000002" href="$structchannel__bss__queue__s.html" title=" " alt="" coords="5,5,168,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,45,89,108,84,108,84,45"/>
+</map>

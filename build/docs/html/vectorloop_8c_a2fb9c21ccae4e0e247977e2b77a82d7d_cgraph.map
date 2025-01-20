@@ -1,0 +1,21 @@
+<map id="vl_fn_channel_messages" name="vl_fn_channel_messages">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,104,191,129"/>
+<area shape="rect" id="Node000002" href="$group__channels.html#ga5446a7526539a97e5d1bca73c23c3880" title=" " alt="" coords="261,5,399,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,102,171,71,238,40,259,32,261,37,240,44,174,76,121,106"/>
+<area shape="rect" id="Node000003" href="$group__channels.html#gafa4c05bbf7886c4975d5d4719b34f0ca" title=" " alt="" coords="254,55,406,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="158,101,256,80,257,86,159,107"/>
+<area shape="rect" id="Node000004" href="$group__channels.html#ga180670c9b496fee9bd62be81ce23c000" title=" " alt="" coords="239,104,421,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="191,114,225,114,225,119,191,119"/>
+<area shape="rect" id="Node000005" href="$group__channels.html#ga19fdf087fec4b517a0c5de35a8e426bc" title=" " alt="" coords="261,153,399,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="159,127,257,148,256,153,158,132"/>
+<area shape="rect" id="Node000006" href="$group__query.html#ga7dc1c1717d6768694ec783ef8d796c8e" title=" " alt="" coords="264,203,396,228"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="122,127,174,157,240,188,264,196,262,201,238,192,172,162,119,132"/>
+<area shape="rect" id="Node000007" href="$group__query.html#gadc83ee2842f0e028220d0bfc21fe2a29" title=" " alt="" coords="469,203,556,228"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="396,213,455,213,455,218,396,218"/>
+<area shape="rect" id="Node000008" href="$group__nsutils.html#gacd268aeb60c39b8047ed3141ed123cc4" title=" " alt="" coords="639,153,784,179"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="555,200,603,187,637,179,638,184,605,193,557,206"/>
+<area shape="rect" id="Node000009" href="$group__nsutils.html#ga832e4d16ea8aabc1e4b9a57ed4dca504" title=" " alt="" coords="632,203,791,228"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="556,213,618,213,618,218,556,218"/>
+<area shape="rect" id="Node000010" href="$group__utils.html#ga87e48cf8f0473484e26ccc18213286da" title=" " alt="" coords="604,252,819,277"/>
+<area shape="poly" id="edge9_Node000007_Node000010" title=" " alt="" coords="557,224,605,237,643,246,642,251,603,242,555,229"/>
+</map>

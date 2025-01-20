@@ -1,0 +1,9 @@
+<map id="app_log_loop_args_s" name="app_log_loop_args_s">
+<area shape="rect" id="Node000001" title=" " alt="" coords="83,93,240,119"/>
+<area shape="rect" id="Node000002" href="$structconfig__s.html" title=" " alt="" coords="5,5,80,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,37,147,91,144,95,68,41"/>
+<area shape="rect" id="Node000003" href="$structchannel__log__s.html" title=" " alt="" coords="104,5,219,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="164,45,164,93,159,93,159,45"/>
+<area shape="rect" id="Node000004" href="$structmetrics__s.html" title=" " alt="" coords="271,5,356,31"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="306,45,297,59,286,71,262,86,236,96,234,91,260,81,282,67,293,56,302,42"/>
+</map>

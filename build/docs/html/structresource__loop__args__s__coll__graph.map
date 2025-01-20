@@ -1,0 +1,13 @@
+<map id="resource_loop_args_s" name="resource_loop_args_s">
+<area shape="rect" id="Node000001" title=" " alt="" coords="151,196,313,221"/>
+<area shape="rect" id="Node000002" href="$structconfig__s.html" title=" " alt="" coords="5,108,80,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,139,122,170,188,193,186,198,120,174,68,144"/>
+<area shape="rect" id="Node000003" href="$structchannel__bss__s.html" title=" " alt="" coords="105,108,221,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="156,147,155,160,158,171,171,184,188,194,185,198,168,188,154,173,149,160,150,147"/>
+<area shape="rect" id="Node000004" href="$structchannel__bss__queue__s.html" title=" " alt="" coords="81,5,244,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="165,45,165,108,160,108,160,45"/>
+<area shape="rect" id="Node000005" href="$structchannel__log__s.html" title=" " alt="" coords="253,108,368,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="302,147,283,174,253,198,250,194,279,170,297,144"/>
+<area shape="rect" id="Node000006" href="$structmetrics__s.html" title=" " alt="" coords="412,108,497,133"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="441,146,428,161,411,174,363,194,314,205,313,199,362,189,408,170,424,157,438,143"/>
+</map>

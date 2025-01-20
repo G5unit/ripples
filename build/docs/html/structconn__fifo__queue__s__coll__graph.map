@@ -1,0 +1,21 @@
+<map id="conn_fifo_queue_s" name="conn_fifo_queue_s">
+<area shape="rect" id="Node000001" title=" " alt="" coords="119,508,261,533"/>
+<area shape="rect" id="Node000002" href="$structconn__s.html" title=" " alt="" coords="157,396,223,421"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,436,193,508,187,508,187,436"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="238,397,246,401,250,409,242,419,224,421,223,416,239,414,245,408,243,405,236,402"/>
+<area shape="rect" id="Node000003" href="$structconn__udp__s.html" title=" " alt="" coords="81,299,179,324"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="147,335,185,394,180,397,143,337"/>
+<area shape="rect" id="Node000004" href="$structquery__s.html" title=" " alt="" coords="153,211,227,236"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="172,249,162,262,138,300,134,297,157,258,167,245"/>
+<area shape="rect" id="Node000009" href="$structconn__tcp__s.html" title=" " alt="" coords="204,299,299,324"/>
+<area shape="poly" id="edge10_Node000009_Node000004" title=" " alt="" coords="209,246,245,297,241,300,204,249"/>
+<area shape="rect" id="Node000005" href="$structrip__ns__header__s.html" title=" " alt="" coords="5,93,132,119"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="75,132,83,160,99,185,125,203,154,213,152,218,122,207,95,189,78,162,69,133"/>
+<area shape="rect" id="Node000006" href="$structedns__s.html" title=" " alt="" coords="157,93,223,119"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="193,132,193,211,187,211,187,132"/>
+<area shape="rect" id="Node000007" href="$structedns__client__subnet__s.html" title=" " alt="" coords="109,5,271,31"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="193,45,193,93,187,93,187,45"/>
+<area shape="rect" id="Node000008" href="$structrr__record__s.html" title=" " alt="" coords="248,93,343,119"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="281,132,233,189,207,213,203,209,229,185,277,128"/>
+<area shape="poly" id="edge9_Node000002_Node000009" title=" " alt="" coords="239,337,200,397,195,394,234,334"/>
+</map>
