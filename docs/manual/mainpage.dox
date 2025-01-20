@@ -1,0 +1,40 @@
+/** \mainpage Ripples
+
+Ripples is a program written in C designed for high performant transaction
+processing. Application demonstrates a software architecture that optimizes
+processing via several ways:
+
+- CPU affinity for transaction processing
+- Vector based socket reads and writes (wherever possible)
+- Vector based transaction processing.
+- Non blocking transaction handling threads.
+- Optimized sharing of resources between threads.
+
+Optimizations minimize data (packet) traversal through the kernel, minimize
+context switching, and minimize CPU cache misses. Architecture also demonstrates
+how a resource (object) could be efficiently shared amongst threads without the
+use of locks, and how to move blocking operations to dedicated threads.
+
+Ripples implements a basic authoritative name server. The basic
+application functionality is that it listens for DNS queries (requests) over
+UDP and TCP transport protocols, and provides answers (responses). There are
+numerous settings that could be used to fine tune software behavior to match
+requirements and optimize behavior.
+
+DNS response behavior is as such:
+
+- All A query types are responded to with IP address of 127.0.0.1.
+- All other query types are responded to with rcode NOTIMPL.
+- Authority section in answers is populated with ns.example.com.
+- Additional section is populated with ns.example.com A record of 127.0.0.1 and
+AAAA record of ::1 .
+
+For more details see:
+- [Architecture](architecture.md)
+- [Usage](usage.md)
+- [Build](building.md)
+- [Code Layout](code_layout.md)
+- [Debugging](debugging.md)
+- [TCP](tcp_conn_states.dox)
+
+*/
