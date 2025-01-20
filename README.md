@@ -24,6 +24,8 @@ As a demonstration of capabilities ripples implements a basic authoritative DNS
 server. DNS database is not implemented as that is beyond the scope of what
 this project aims to accomplish. See Usage section for more details.
 
+[Detailed Documentation]https://g5unit.github.io/ripples/)
+
 ## Usage
 
 To start the application run the compiled binary named "ripples". The basic
